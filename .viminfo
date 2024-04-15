@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1713170486,,"wq"
+|2,0,1713173953,,"wq"
 :wq!
 |2,0,1713169689,,"wq!"
 
@@ -27,24 +27,47 @@
 # Registers:
 
 # File marks:
-'0  1  39  ~/deploy/pro
-|4,48,1,39,1713170486,"~/deploy/pro"
-'1  7  4  ~/html123/html1
-|4,49,7,4,1713169689,"~/html123/html1"
+'0  2  0  ~/simple/man
+|4,48,2,0,1713173953,"~/simple/man"
+'1  1  39  ~/deploy/pro
+|4,49,1,39,1713170486,"~/deploy/pro"
+'2  7  4  ~/html123/html1
+|4,50,7,4,1713169689,"~/html123/html1"
 
 # Jumplist (newest first):
+-'  2  0  ~/simple/man
+|4,39,2,0,1713173953,"~/simple/man"
+-'  1  0  ~/simple/man
+|4,39,1,0,1713173938,"~/simple/man"
+-'  1  39  ~/deploy/pro
+|4,39,1,39,1713170486,"~/deploy/pro"
 -'  1  39  ~/deploy/pro
 |4,39,1,39,1713170486,"~/deploy/pro"
 -'  7  4  ~/html123/html1
 |4,39,7,4,1713169689,"~/html123/html1"
 -'  7  4  ~/html123/html1
 |4,39,7,4,1713169689,"~/html123/html1"
+-'  7  4  ~/html123/html1
+|4,39,7,4,1713169689,"~/html123/html1"
+-'  7  4  ~/html123/html1
+|4,39,7,4,1713169689,"~/html123/html1"
+-'  1  0  ~/html123/html1
+|4,39,1,0,1713169566,"~/html123/html1"
+-'  1  0  ~/html123/html1
+|4,39,1,0,1713169566,"~/html123/html1"
 -'  1  0  ~/html123/html1
 |4,39,1,0,1713169566,"~/html123/html1"
 -'  1  0  ~/html123/html1
 |4,39,1,0,1713169566,"~/html123/html1"
 
 # History of marks within files (newest to oldest):
+
+> ~/simple/man
+	*	1713173951	0
+	"	2	0
+	^	2	0
+	.	1	15
+	+	1	15
 
 > ~/deploy/pro
 	*	1713170484	0
